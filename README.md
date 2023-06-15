@@ -6,6 +6,17 @@ THE SERIES OF TUBES IS A TRASH MAGIC SET CONSISTING OF WEB SERVERS FROM THE TRAS
 
 ![](https://raw.githubusercontent.com/LafeLabs/TUBES/main/trashmagic/triangle.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/TUBES/main/trashmagic/billions.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/TUBES/main/trashmagic/billionsandbillions.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/TUBES/main/trashmagic/boxfront.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/TUBES/main/trashmagic/boxback.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/TUBES/main/trashmagic/internetoftrash.png)
+
+
 BILLIONS AND BILLIONS OF TOILET PAPER ROLLS ARE USED PER YEAR!  EACH ROLL PRODUCES ONE CARDBOARD TUBE, PRETTY MUCH IDENTICAL TO ALL THE OTHER ONES!  WE ARE SEIZING THIS WASTE STREAM AND TURNING IT INTO MEDIA!  THESE TUBES ARE ALL HYPERLINKS TO SERVERS FROM THE TRASH, WHILE THEY ARE THEMSELVES TRASH!  THIS MAKES THEM HYPERTRASH!  IN PARTICULAR, THEY ARE THE TRASH MAGIC HYPERTUBE NETWORK!
 
 
